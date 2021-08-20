@@ -1,0 +1,181 @@
+[
+    {
+      "id": "1",
+      "title": "Man of Steel",
+      "image": "https://i1.sndcdn.com/artworks-000337678707-ablnk1-t500x500.jpg",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "year": "2016",
+      "rating": "8.5/10",
+      "duration":"104 min",
+      "company": "DC",
+      "filmImages": [
+          "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-man-of-steel-henry-cavill.jpg",
+          "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/54cb137bc260a_-_man-of-steel-design-01-0613-mdn.jpg",
+          "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-man-of-steel-michael-shannon.jpg",
+          "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-man-of-steel-amy-adams.jpg",
+          "https://i.pinimg.com/originals/a2/ae/53/a2ae5368ee735b83d66c9dbd6a2fcaf7.jpg"
+      ]
+    },
+    
+    {
+    "id": "2",
+    "title": "Avengers: Infinity War",
+    "image": "https://static.qobuz.com/images/covers/mb/29/oaenth1p429mb_600.jpg",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+    "year": "2016",
+    "rating": "9.0/10",
+    "duration":"100 min",
+    "company": "Marvel",
+    "filmImages": [
+        "https://cdn1-production-images-kly.akamaized.net/P8k7ZTttTXtHdgCoQ6XhCwHPUrE=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2119553/original/042896900_1524629387-avengers_infinity_war1.jpg",
+        "https://steamuserimages-a.akamaihd.net/ugc/795361297013834310/BD0A3729F2B9F3703AA15E3970A04A6DCE82F7E9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+        "https://media.wired.com/photos/5d49f61aa5944f0009f8a4d3/1:1/w_753,h_753,c_limit/Science_Thanos_MCDAVEN_EC255.jpg",
+        "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c0/Ebony_Maw_displeased.jpg/revision/latest/top-crop/width/360/height/360?cb=20210525202154",
+        "https://cdn.vox-cdn.com/thumbor/h9HVzp9887fjKfQPP1IYGnWMRko=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10736261/InfinityWar5ae28176bb234.jpg"
+    ]
+  },
+    
+  {
+    "id": "3",
+    "title": "Avengers: Endgame",
+    "image": "https://toybuzz.org/wp-content/uploads/2019/04/Marvel-Avengers-Endgame.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.",
+    "year": "2019",
+    "rating": "9.5/10",
+    "duration":"124 min",
+    "company": "Marvel",
+    "filmImages": [
+        "https://www.quever.news/u/fotografias/m/2020/11/21/f638x638-3430_61597_4831.jpg",
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/avengers-endgame-thor-1557753634.jpg",
+        "https://www.geekmi.news/__export/1601917595822/sites/debate/img/2020/10/05/thor-ragnarok-smart-hulk-1182439-1280x0_crop1601917082160.jpeg_40719601.jpeg",
+        "https://cdn.pinkvilla.com/files/styles/contentpreview/public/avengers-endgame-iron-man__0.jpg?itok=UNLqgr7w",
+        "https://www.eleconomista.com.mx/__export/1528168665725/sites/eleconomista/img/2018/06/04/taquilla.jpg_1810791533.jpg"
+    ]
+  },
+  
+  {
+    "id": "4",
+    "title": "Justice League",
+    "image": "https://4.bp.blogspot.com/-FYOIghPIoUM/Wgorje7VrpI/AAAAAAAAVNM/GocSvV9RvssajSim3CT6VCG-h5mnuNIjQCLcBGAs/s1600/JUSTICELEAGUE.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "year": "2018",
+    "rating": "8.0/10",
+    "duration":"106 min",
+    "company": "DC",
+    "filmImages": [
+        "https://spoiler.bolavip.com/__export/1596924654869/sites/bolavip/img/2020/08/08/justice_league_zack_snyder_cut_steppenwolf_crop1596924654100.jpg_423682103.jpg",
+        "https://pyxis.nymag.com/v1/imgs/903/b91/818f558c37a6889afa2847ed5a50968d7f-justice-league.rsquare.w1200.jpg",
+        "https://www.tonica.la/__export/1595389529258/sites/debate/img/2020/07/21/justice-league-zack-snyder-habla-importancia-superman-su-version_crop1595389498370.jpg_423682103.jpg",
+        "https://www.baenegocios.com/__export/1598128670155/sites/cronica/img/2020/08/22/trailer.jpeg_792575817.jpeg",
+        "https://cdn.vox-cdn.com/thumbor/8vZ0G-06-P6yC5Jk2NPwL6gR4UY=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22382274/Screen_Shot_2021_03_19_at_7.02.02_AM.png"
+    ]
+  },
+  
+  {
+    "id": "5",
+    "title": "Doctor Strange",
+    "image": "https://photos.bandsintown.com/thumb/7193740.jpeg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "year": "2016",
+    "rating": "8.0/10",
+    "duration":"92 min",
+    "company": "Marvel",
+    "filmImages": [
+        "https://img.ecartelera.com/noticias/57700/57719-m.jpg",
+        "https://programapilotoblog.files.wordpress.com/2016/11/rs_600x600-160412173233-600-dr-strange-marvel-tt-041216a.jpg?w=600",
+        "https://resizing.flixster.com/xOSmvmva4K0aQtEgmMYpDuvx1c0=/300x300/v2/https://flxt.tmsimg.com/assets/p19128463_i_v9_ab.jpg",
+        "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/doctor-strange-tilda.jpg",
+        "https://i.pinimg.com/474x/06/5f/f7/065ff76e14f089511db318fd8655b3e2.jpg"
+    ]
+  },
+  
+  {
+    "id": "6",
+    "title": "Thor Ragnarok",
+    "image": "https://images.coveralia.com/audio/b/Bso_Thor_Ragnarok--Frontal.jpg?613",
+    "description": " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+    "year": "2017",
+    "rating": "9.5/10",
+    "duration":"98 min",
+    "company": "Marvel",
+    "filmImages": [
+        "https://img.ecartelera.com/noticias/38700/38741-m.jpg",
+        "https://img.ecartelera.com/noticias/49000/49099-m.jpg",
+        "https://i.pinimg.com/originals/45/0b/04/450b04a83084ea75c5defff32833ec06.png",
+        "https://static.vix.com/es/sites/default/files/styles/1x1/public/t/thor-ragnarok-gladiator-hulk.jpg",
+        "https://i.pinimg.com/originals/5f/c0/9d/5fc09d37554ea89f3685c097c5bebb06.jpg"
+    ]
+  },
+  
+  {
+    "id": "7",
+    "title": "Deadpool",
+    "image": "https://i.pinimg.com/originals/d2/95/c4/d295c4d4c773b44c519f9e8d5e28ff6c.jpg",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "year": "2017",
+    "rating": "9.5/10",
+    "duration":"94 min",
+    "company": "Marvel",
+    "filmImages": [
+        "https://img-en-yibada-2017-yibada1.netdna-ssl.com/data/images/full/86242/ryan-reynolds-and-morena-baccarin-play-the-lead-characters-in-deadpool-movie.jpg",
+        "https://static.toiimg.com/photo/51124505.cms",
+        "https://static.toiimg.com/photo/51124500.cms",
+        "https://akns-images.eonline.com/eol_images/Entire_Site/201724/rs_600x600-170304103034-600-deadpool-2-teaser-030417.jpg?fit=around%7C600:600&output-quality=90&crop=600:600;center,top",
+        "https://static.wikia.nocookie.net/avengers/images/c/c0/Ajax.png/revision/latest/top-crop/width/360/height/360?cb=20161221123630&path-prefix=de"
+    ]
+  },
+  
+  {
+    "id": "8",
+    "title": "Superman vs Batman",
+    "image": "https://i1.sndcdn.com/artworks-9WrE5HDwLBLN4L1s-0oGFRQ-t500x500.jpg",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "year": "2018",
+    "rating": "7.5/10",
+    "duration":"108 min",
+    "company": "DC",
+    "filmImages": [
+        "https://static.wikia.nocookie.net/dc-cinematic-universe/images/4/44/Doomsday_Trailer.jpg/revision/latest/smart/width/250/height/250?cb=20160122230158&path-prefix=de",
+        "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/batman-v-superman-dawn-of-justice-peligra-la-vida-de-superman/52196245-1-esl-ES/Batman-v-Superman-Dawn-Of-Justice-Peligra-la-vida-de-Superman.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwD69DDOhN4DnvzWqmqfXaUVt_7Lqlzlr1QQ&usqp=CAU",
+        "https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/39288.jpg",
+        "https://64.media.tumblr.com/358592329eaa50866e64fc937fd32637/tumblr_o5j4b9fySo1uipmjto2_250.png"
+    ]
+  },
+  
+  {
+    "id": "9",
+    "title": "Aquaman",
+    "image": "https://i1.sndcdn.com/artworks-JWHSPXNJvKFWuIrq-pf4QzQ-t500x500.jpg",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "year": "2018",
+    "rating": "7.5/10",
+    "duration":"91 min",
+    "company": "DC",
+    "filmImages": [
+        "https://beverlypress.com/wp-content/uploads/2018/12/Tim-Aqua-1-300x300.jpg",
+        "https://seriestation.com/wp-content/uploads/Aquaman-2-Black-Manta-Return-Yahya-Abdul-Mateen-300x300.jpg",
+        "https://www.nacionflix.com/__export/1618955415564/sites/debate/img/2021/04/20/patrick-wilson-aquaman_crop1618955292313.jpeg_423682103.jpeg",
+        "https://seriestation.com/wp-content/uploads/Aquaman-2-Amber-Heard-Jason-Momoa-Reuniting-300x300.jpg",
+        "https://static.wikia.nocookie.net/dccu/images/3/30/Aquaman_King_Nereus_Character_Textless_Poster.jpg/revision/latest/top-crop/width/360/height/360?cb=20181123170800"
+    ]
+  },
+  
+  {
+    "id": "10",
+    "title": "Wonder Woman",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41jP360qouL._AC_UL600_SR600,600_.jpg",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "year": "2018",
+    "rating": "7.5/10",
+    "duration":"86 min",
+    "company": "DC",
+    "filmImages": [
+        "https://akns-images.eonline.com/eol_images/Entire_Site/2017724/rs_600x600-170824092544-600.wonder-woman-movie-6.ch.082417.jpg?fit=around%7C700:700&output-quality=90&crop=700:700;center,top",
+        "https://ficquotes.com/images/characters/hippolyta-wonder-woman.jpg",
+        "https://akns-images.eonline.com/eol_images/Entire_Site/2017424/rs_600x600-170524105727-600.chris-pine-wonder-woman.52417.jpg?fit=around%7C700:700&output-quality=90&crop=700:700;center,top",
+        "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/wonder-woman-prohibida-libano/133958633-1-esl-ES/Wonder-Woman-es-prohibida-en-el-Libano-por-la-procedencia-israeli-de-Gal-Gadot.png",
+        "https://www.irishtimes.com/polopoly_fs/1.3122761.1497629193!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg"
+    ]
+  },
+]
